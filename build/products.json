@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Floral Bliss",
+    "description": "A delicate blend of jasmine and rose, evoking springtime elegance.",
+    "price": 79984,
+    "image": "https://images.pexels.com/photos/2688883/pexels-photo-2688883.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Midnight Oud",
+    "description": "Rich oud with hints of amber and saffron for a bold, exotic scent.",
+    "price": 125000,
+    "image": "https://images.pexels.com/photos/3826421/pexels-photo-3826421.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Citrus Sparkle",
+    "description": "Zesty lemon and bergamot for a refreshing, vibrant fragrance.",
+    "price": 65000,
+    "image": "https://images.unsplash.com/photo-1587017531311-3fc79d8ebb25"
+  },
+  {
+    "id": 4,
+    "name": "Velvet Musk",
+    "description": "Smooth musk with vanilla undertones, perfect for evening wear.",
+    "price": 95000,
+    "image": "https://images.pexels.com/photos/2688885/pexels-photo-2688885.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Ocean Breeze",
+    "description": "Crisp marine notes with a touch of sandalwood, inspired by the sea.",
+    "price": 82000,
+    "image": "https://pixabay.com/get/g3c6b7b9f0b7f8e6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Golden Amber",
+    "description": "Warm amber with spicy clove for a luxurious, timeless scent.",
+    "price": 110000,
+    "image": "https://images.pexels.com/photos/2688887/pexels-photo-2688887.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Rose Elegance",
+    "description": "Pure rose essence with a hint of peony for feminine charm.",
+    "price": 88000,
+    "image": "https://images.unsplash.com/photo-1587017531311-3fc79d8ebb25"
+  },
+  {
+    "id": 8,
+    "name": "Sandalwood Dream",
+    "description": "Creamy sandalwood with patchouli for a grounding, earthy aroma.",
+    "price": 105000,
+    "image": "https://pixabay.com/get/g3c6b7b9f0b7f8e6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Lavender Serenity",
+    "description": "Soothing lavender with a touch of cedarwood for calm evenings.",
+    "price": 72000,
+    "image": "https://images.pexels.com/photos/3826423/pexels-photo-3826423.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Spiced Vanilla",
+    "description": "Sweet vanilla with cinnamon and cardamom for a warm, inviting scent.",
+    "price": 90000,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+  },
+  {
+    "id": 11,
+    "name": "Jasmine Glow",
+    "description": "Bright jasmine with ylang-ylang for a radiant, floral bouquet.",
+    "price": 85000,
+    "image": "https://images.pexels.com/photos/2688889/pexels-photo-2688889.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Ebony Spice",
+    "description": "Dark pepper and clove with a smoky finish, bold and mysterious.",
+    "price": 130000,
+    "image": "https://pixabay.com/get/g3c6b7b9f0b7f8e6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Lily Charm",
+    "description": "Fresh lily with green notes for a clean, elegant fragrance.",
+    "price": 78000,
+    "image": "https://images.pexels.com/photos/3826425/pexels-photo-3826425.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Orchid Veil",
+    "description": "Exotic orchid with a soft musk base for subtle sophistication.",
+    "price": 92000,
+    "image": "https://images.unsplash.com/photo-1587017531311-3fc79d8ebb25"
+  },
+  {
+    "id": 15,
+    "name": "Cedar Whisper",
+    "description": "Woody cedar with a hint of citrus for a fresh, modern scent.",
+    "price": 87000,
+    "image": "https://images.pexels.com/photos/2688891/pexels-photo-2688891.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Berry Bliss",
+    "description": "Juicy berries with a floral heart for a playful, sweet fragrance.",
+    "price": 74000,
+    "image": "https://pixabay.com/get/g3c6b7b9f0b7f8e6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Amber Glow",
+    "description": "Rich amber with a touch of caramel for a warm, inviting scent.",
+    "price": 115000,
+    "image": "https://images.pexels.com/photos/3826427/pexels-photo-3826427.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Patchouli Muse",
+    "description": "Deep patchouli with rose for a bohemian, earthy vibe.",
+    "price": 98000,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+  },
+  {
+    "id": 19,
+    "name": "Freesia Bloom",
+    "description": "Light freesia with citrus notes for a fresh, uplifting fragrance.",
+    "price": 69000,
+    "image": "https://images.pexels.com/photos/2688893/pexels-photo-2688893.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Saffron Silk",
+    "description": "Luxurious saffron with silky vanilla for an opulent scent.",
+    "price": 140000,
+    "image": "https://pixabay.com/get/g3c6b7b9f0b7f8e6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Peony Petal",
+    "description": "Soft peony with a hint of pear for a delicate, feminine scent.",
+    "price": 83000,
+    "image": "https://images.pexels.com/photos/3826429/pexels-photo-3826429.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Cedar Spice",
+    "description": "Spicy cedar with nutmeg for a warm, masculine fragrance.",
+    "price": 91000,
+    "image": "https://images.unsplash.com/photo-1587017531311-3fc79d8ebb25"
+  },
+  {
+    "id": 23,
+    "name": "Violet Mist",
+    "description": "Gentle violet with powdery notes for a soft, romantic aroma.",
+    "price": 76000,
+    "image": "https://images.pexels.com/photos/2688895/pexels-photo-2688895.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Coconut Dream",
+    "description": "Creamy coconut with tropical fruits for a summery vibe.",
+    "price": 80000,
+    "image": "https://pixabay.com/get/g3c6b7b9f0b7f8e6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Mystic Rose",
+    "description": "Deep rose with oud for a mysterious, captivating scent.",
+    "price": 135000,
+    "image": "https://images.pexels.com/photos/3826431/pexels-photo-3826431.jpeg"
+  },
+  {
+    "id": 26,
+    "name": "Lemon Zest",
+    "description": "Bright lemon with mint for an energizing, clean fragrance.",
+    "price": 67000,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+  },
+  {
+    "id": 27,
+    "name": "Cashmere Bloom",
+    "description": "Soft cashmere with floral notes for a cozy, elegant scent.",
+    "price": 94000,
+    "image": "https://images.pexels.com/photos/2688897/pexels-photo-2688897.jpeg"
+  },
+  {
+    "id": 28,
+    "name": "Tobacco Leaf",
+    "description": "Rich tobacco with leather for a bold, sophisticated fragrance.",
+    "price": 120000,
+    "image": "https://pixabay.com/get/g3c6b7b9f0b7f8e6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Gardenia Grace",
+    "description": "Lush gardenia with jasmine for a floral, romantic scent.",
+    "price": 86000,
+    "image": "https://images.pexels.com/photos/3826433/pexels-photo-3826433.jpeg"
+  },
+  {
+    "id": 30,
+    "name": "Spice Trail",
+    "description": "Exotic spices with a woody base for an adventurous aroma.",
+    "price": 100000,
+    "image": "https://images.unsplash.com/photo-1587017531311-3fc79d8ebb25"
+  },
+  {
+    "id": 31,
+    "name": "Blush Petal",
+    "description": "Soft floral notes with a powdery finish for delicate elegance.",
+    "price": 77000,
+    "image": "https://images.pexels.com/photos/2688899/pexels-photo-2688899.jpeg"
+  },
+  {
+    "id": 32,
+    "name": "Oud Royale",
+    "description": "Majestic oud with amber and rose for a regal fragrance.",
+    "price": 150000,
+    "image": "https://pixabay.com/get/g3c6b7b9f0b7f8e6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Iris Veil",
+    "description": "Powdery iris with a touch of violet for a refined scent.",
+    "price": 89000,
+    "image": "https://images.pexels.com/photos/3826435/pexels-photo-3826435.jpeg"
+  },
+  {
+    "id": 34,
+    "name": "Tropical Mist",
+    "description": "Mango and passionfruit with a floral heart for a vibrant fragrance.",
+    "price": 73000,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+  },
+  {
+    "id": 35,
+    "name": "Suede Whisper",
+    "description": "Soft suede with amber for a warm, luxurious scent.",
+    "price": 97000,
+    "image": "https://images.pexels.com/photos/2688901/pexels-photo-2688901.jpeg"
+  },
+  {
+    "id": 36,
+    "name": "Fig Essence",
+    "description": "Sweet fig with green notes for a fresh, earthy aroma.",
+    "price": 81000,
+    "image": "https://pixabay.com/get/g3c6b7b9f0b7f8e6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Starlit Musk",
+    "description": "Light musk with floral notes for a dreamy, ethereal fragrance.",
+    "price": 84000,
+    "image": "https://images.pexels.com/photos/3826437/pexels-photo-3826437.jpeg"
+  },
+  {
+    "id": 38,
+    "name": "Cardamom Glow",
+    "description": "Spicy cardamom with rose for a warm, inviting scent.",
+    "price": 93000,
+    "image": "https://images.unsplash.com/photo-1587017531311-3fc79d8ebb25"
+  },
+  {
+    "id": 39,
+    "name": "Moonlit Lily",
+    "description": "Pure lily with a touch of musk for a serene, elegant fragrance.",
+    "price": 79000,
+    "image": "https://images.pexels.com/photos/2688903/pexels-photo-2688903.jpeg"
+  },
+  {
+    "id": 40,
+    "name": "Saffron Blaze",
+    "description": "Fiery saffron with oud for a bold, luxurious scent.",
+    "price": 145000,
+    "image": "https://pixabay.com/get/g3c6b7b9f0b7f8e6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6c8b6e4e7f8b6.jpg"
+  }
+]

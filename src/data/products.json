@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "name": "Floral Bliss",
+      "description": "A delicate blend of jasmine and rose, evoking springtime elegance.",
+      "price": 79984,
+      "images": [
+        "https://images.pexels.com/photos/258244/pexels-photo-258244.jpeg",
+        "https://fragrances.com.ng/media/catalog/product/cache/4cf9e516177489ae500dec59d26ccb3b/a/r/ard_al_zaafaran_al_sayad_edp_100ml_for_men.jpg",
+        "https://fragrances.com.ng/media/catalog/product/cache/c4de2f5b8da98c603741df71d3319149/m/a/maison_oud_fair_mont_treasure_edp_100ml.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Midnight Oud",
+      "description": "Rich oud with hints of amber and saffron for a bold, exotic scent.",
+      "price": 125000,
+      "images": [
+        "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg",
+        "https://fragrances.com.ng/media/catalog/product/cache/c81bc647bcf9be1e13a1fe4b36e3d4b2/t/o/tom_ford_lost_cherry_edp_100ml.jpg",
+        "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Citrus Sparkle",
+      "description": "Zesty lemon and bergamot for a refreshing, vibrant fragrance.",
+      "price": 65000,
+      "images": [
+        "https://images.pexels.com/photos/1961791/pexels-photo-1961791.jpeg",
+        "https://images.pexels.com/photos/1961791/pexels-photo-1961791.jpeg",
+        "https://images.pexels.com/photos/1961791/pexels-photo-1961791.jpeg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Velvet Musk",
+      "description": "Smooth musk with vanilla undertones, perfect for evening wear.",
+      "price": 95000,
+      "images": [
+        "https://images.pexels.com/photos/136651/pexels-photo-136651.jpeg",
+        "https://images.pexels.com/photos/136651/pexels-photo-136651.jpeg",
+        "https://images.pexels.com/photos/136651/pexels-photo-136651.jpeg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ocean Breeze",
+      "description": "Crisp marine notes with a touch of sandalwood, inspired by the sea.",
+      "price": 82000,
+      "images": [
+        "https://images.pexels.com/photos/965992/pexels-photo-965992.jpeg",
+        "https://images.pexels.com/photos/965992/pexels-photo-965992.jpeg",
+        "https://images.pexels.com/photos/965992/pexels-photo-965992.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Golden Amber",
+      "description": "Warm amber with spicy clove for a luxurious, timeless scent.",
+      "price": 110000,
+      "images": [
+        "https://images.pexels.com/photos/2814832/pexels-photo-2814832.jpeg",
+        "https://images.pexels.com/photos/2814832/pexels-photo-2814832.jpeg",
+        "https://images.pexels.com/photos/2814832/pexels-photo-2814832.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Rose Elegance",
+      "description": "Pure rose essence with a hint of peony for feminine charm.",
+      "price": 88000,
+      "images": [
+        "https://images.pexels.com/photos/8361516/pexels-photo-8361516.jpeg",
+        "https://images.pexels.com/photos/8361516/pexels-photo-8361516.jpeg",
+        "https://images.pexels.com/photos/8361516/pexels-photo-8361516.jpeg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sandalwood Dream",
+      "description": "Creamy sandalwood with patchouli for a grounding, earthy aroma.",
+      "price": 105000,
+      "images": [
+        "https://images.pexels.com/photos/5760878/pexels-photo-5760878.jpeg",
+        "https://images.pexels.com/photos/5760878/pexels-photo-5760878.jpeg",
+        "https://images.pexels.com/photos/5760878/pexels-photo-5760878.jpeg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Lavender Serenity",
+      "description": "Soothing lavender with a touch of cedarwood for calm evenings.",
+      "price": 72000,
+      "images": [
+        "https://images.pexels.com/photos/965993/pexels-photo-965993.jpeg",
+        "https://images.pexels.com/photos/965993/pexels-photo-965993.jpeg",
+        "https://images.pexels.com/photos/965993/pexels-photo-965993.jpeg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Saffron Blaze",
+      "description": "Fiery saffron with oud for a bold, luxurious scent.",
+      "price": 145000,
+      "images": [
+        "https://fragrances.com.ng/media/catalog/product/cache/c81bc647bcf9be1e13a1fe4b36e3d4b2/u/n/unique_e_luxury_soscentific_edp_100ml-6.jpg",
+        "https://fragrances.com.ng/media/catalog/product/cache/4cf9e516177489ae500dec59d26ccb3b/u/n/unique_e_luxury_soscentific_edp_100ml-1.jpg",
+        "https://images.pexels.com/photos/3865676/pexels-photo-3865676.jpeg"
+      ]
+    }
+  ]

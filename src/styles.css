@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@400;500&display=swap');
+
+body {
+  margin: 0;
+  background-color: #E6E0FA; 
+  font-family: 'Roboto', sans-serif;
+  color: #333333;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+}
+
+footer {
+  background: linear-gradient(45deg, #4A2C6B 30%, #6B3D9A 90%);
+  color: #FFFFFF;
+  text-align: center;
+  padding: 20px;
+  font-family: 'Playfair Display', serif;
+}
+
+button {
+  transition: all 0.2s ease-in-out;
+}
+
+input, textarea {
+  border: 1px solid #E0E0E0;
+  border-radius: 8px;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+  transition: border-color 0.2s ease-in-out;
+}
+
+input:focus, textarea:focus {
+  outline: none;
+  border-color: #4A2C6B;
+  box-shadow: 0 0 5px rgba(74, 44, 107, 0.3);
+}
+
+/* Custom hover effects */
+.MuiButton-contained:hover {
+  background: linear-gradient(45deg, #6B3D9A 30%, #8A4EC7 90%) !important;
+}
+
+.MuiButton-containedSecondary:hover {
+  background: linear-gradient(45deg, #E8B923 30%, #F0C14B 90%) !important;
+}
+
+/*  responsiveness */
+@media (max-width: 600px) {
+  main {
+    padding: 10px;
+  }
+  .MuiTypography-h4 {
+    font-size: 1.8rem;
+  }
+}
